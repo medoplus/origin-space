@@ -1,0 +1,33 @@
+body {
+    padding:  0px;
+    margin: 0px;
+    background-color: #232838;
+  }
+  #header {
+    color: white;
+    padding: 25px;
+    
+  }
+  #wave {
+    width: 25px;
+    height: 25px;
+    float: left;
+    background-color:white;
+  }
+  #fLink{
+    float: left;
+    list-style-type: none;
+
+  }
+  #sLink{
+    float: left;
+    list-style-type: none;
+    display: flex;
+  }
+  #oLink{
+    padding:0px;
+    float:right;
+    list-style-type: none;
+    display:flex;
+   
+  }
